@@ -5,7 +5,7 @@ port=465
 username="subbu.venkat86@gmail.com"
 paswword="eoux uydp pwzb pmhp"
 
-receiver_email="subbunv86@gmail.com"
+receiver_email="subbu.venkat86@gmail.com"
 context = ssl.create_default_context()
 
 
