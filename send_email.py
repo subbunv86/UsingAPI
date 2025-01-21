@@ -3,8 +3,8 @@ import os
 host="smtp.gmail.com"
 port=465
 username="subbu.venkat86@gmail.com"
-paswword="eoux uydp pwzb pmhp"
 
+password =os.environ['EMAIL_PASSWORD']
 receiver_email="subbu.venkat86@gmail.com"
 context = ssl.create_default_context()
 
